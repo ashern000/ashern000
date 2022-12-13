@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashern000&show_icons=true&theme=tokyonight&title_color=00ff04&locale=en" alt="ashern000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashern000&" alt="ashern000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashern000&theme=dark" alt="ashern000" /></p>
