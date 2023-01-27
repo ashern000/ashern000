@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs, PHP, Linux and JavaScript!**
 
-- 💬 Ask me about **Linux and PHP**
+- 💬 Ask me about **Linux, PHP, NodeJs and JavaScript**
 
 - 📫 How to reach me **asherndebortoli@gmail.com**
 
