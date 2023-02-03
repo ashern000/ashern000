@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashern000&label=Profile%20views&color=010500&style=flat" alt="ashern000" /> </p>
 
-- 🌱 I’m currently learning **NodeJs, PHP,JavaScript, ReactJs and Linux!**
+- 🌱 I’m currently learning **NodeJs , PHP , JavaScript , ReactJs and Linux!**
 
-- 💬 Ask me about **NodeJs, PHP,JavaScript, ReactJs and Linux**
+- 💬 Ask me about **NodeJs , PHP , JavaScript , ReactJs and Linux**
 
 - 📫 How to reach me **asherndebortoli@gmail.com**
 
